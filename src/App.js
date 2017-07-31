@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import _ from 'lodash';
 import ReactGridLayout from 'react-grid-layout';
 import './App.css';
-import Root from  '@databraid/react-inbox-libs/lib/Root';
+import Root from  '@databraid/react-inbox-libs/lib';
 
 console.log(Root)
 var MyFirstGrid = React.createClass({
