@@ -5,7 +5,6 @@ import ReactGridLayout from 'react-grid-layout';
 import './App.css';
 import Root from  '@databraid/react-inbox-libs/lib';
 
-console.log(Root)
 var MyFirstGrid = React.createClass({
   render: function() {
     // layout is an array of objects, see the demo for more complete usage
